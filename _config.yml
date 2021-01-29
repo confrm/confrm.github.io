@@ -22,8 +22,7 @@ url     : https://confrm.io # the base hostname & protocol for your site e.g. ht
 baseurl : # does not include hostname
 title   : confrm.io
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
-
+  IOT device orchestration
 
 ## => Language and Timezone
 ##############################
