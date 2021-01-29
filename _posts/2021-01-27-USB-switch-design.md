@@ -5,7 +5,7 @@ tags: IOT, esp9266
 
 Lockdown #3 and effective childcare have resulted in a little gizmo being designed. Introducing the yet to be named usb switchy thing:
 
-![USB Switch](/assets/images/jan21/1.jpg)
+![USB Switch](/assets/images/2021-01-27-1.jpg)
 
 Features are:
 
