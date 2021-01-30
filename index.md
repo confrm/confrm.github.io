@@ -1,15 +1,14 @@
 ---
 layout: article
-title: Confrm - IOT Device Orchestration
+title: Confrm.io
 article_header:
   type: overlay
   theme: dark
-  background_color: '#203020'
   background_image:
     src: /assets/images/banner.jpg
 ---
 
-Confrm is a provisioning service for IOT devices. Created to provide an easy way to update things which are embedded in walls, stuck in hard to reach boxes and halfway up the garden, it also provides a convenient mechanism to monitor those devices and configure them remotely.
+Confrm is a provisioning tool for IOT devices. Created to provide an easy way to update things which are embedded in walls, stuck in hard to reach boxes and halfway up the garden, it also provides a convenient mechanism to monitor those devices and configure them remotely.
 
 Most IOT devices will already have wifi stacks and http libraries, Confrm uses a basic REST API to enable those device to query a central server for updates / configuration information.
 
