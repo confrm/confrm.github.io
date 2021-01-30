@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Confrm: IOT Device Orchestration
+title: Confrm - IOT Device Orchestration
 article_header:
   type: overlay
   theme: dark
