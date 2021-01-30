@@ -1,10 +1,10 @@
 ---
 layout: article
-title: IOT Device Orchestration
+title: Confrm: IOT Device Orchestration
 article_header:
   type: overlay
   theme: dark
-  backgrouind_color: '#203020'
+  background_color: '#203020'
   background_image:
     src: /assets/images/banner.jpg
 ---
