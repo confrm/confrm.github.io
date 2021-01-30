@@ -1,6 +1,6 @@
 ---
-title: A USB Switch
-tags: IOT, esp9266
+title: USB Switch Design
+tags: IOT, esp8266, usb_switch
 ---
 
 Lockdown #3 and effective childcare have resulted in a little gizmo being designed. Introducing the yet to be named usb switchy thing:
