@@ -1,9 +1,7 @@
 header:
-  - titles:
+  - title:
     url: /blog.html
-
-  - titles:
+  - title:
     url: /about.html
-
-  - titles: GitHub
+  - title: GitHub
     url: https://github.com/confrm/
