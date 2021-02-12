@@ -16,6 +16,6 @@ Eventually we want to add more features and integrations in to larger projects -
 
 See [https://github.com/confrm/confrm](https://github.com/confrm/confrm) for the server and the following repositories for the device code:
 
-* esp32-arduino [https://github.com/confrm/confrm-arduino-esp32](https://github.com/confrm/confrm-arduino-esp32)
+* confrm-arduino-esp (ESP32, ESP8266) [https://github.com/confrm/confrm-arduino-esp32](https://github.com/confrm/confrm-arduino-esp)
 
 
