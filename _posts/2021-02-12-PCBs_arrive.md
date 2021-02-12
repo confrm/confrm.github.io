@@ -11,6 +11,6 @@ Looking good for getting a prototype working in the next few days. I have done a
 
 In related news the ESP8266 support in confrm is working, which now opens up the ability to integrate with Tasmota.
 
-I have also been looking at some changes to the overall design to push the price down. USB2 gives a significant saving, and using a MOSFET in place of the relay is an option. The MOSFET will waste some power and generate a little bit of heat.
+I have also been looking at some changes to the overall design to push the price down. Using USB2 in place of USB3 provides a significant savings due to the cost of connectors, and using a MOSFET in place of the relay is an option. The MOSFET will waste some power and generate a little bit of heat.
 
 Parts are on order for some testing.
