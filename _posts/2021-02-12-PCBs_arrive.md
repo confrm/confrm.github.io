@@ -1,6 +1,6 @@
 ---
 title: Prototype PCB's Arrive
-tags: IOT, esp8266, usb\_switch
+tags: IOT, esp8266, usb_switch
 ---
 
 JLC have delivered and everything fits perfectly:
