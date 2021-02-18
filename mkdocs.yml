@@ -1,0 +1,17 @@
+site_name: confrm.io
+
+repo_url: https://github.com/confrm
+
+copyright: Copyright &copy; 2021 confrm.io
+
+theme:
+  name: material
+  logo: assets/logo.svg
+  palette:
+    primary: blue grey
+
+nav:
+  - Home: index.md
+  - Quickstart: 
+    - quickstart/quickstart-confrm.md
+    - quickstart/quickstart-client.md
