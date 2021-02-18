@@ -10,5 +10,3 @@ See [https://github.com/confrm/confrm](https://github.com/confrm/confrm) for the
 
 * confrm-arduino-esp (ESP32, ESP8266) [https://github.com/confrm/confrm-arduino-esp](https://github.com/confrm/confrm-arduino-esp)
 
-
-
