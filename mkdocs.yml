@@ -6,6 +6,7 @@ copyright: Copyright &copy; 2021 confrm.io
 
 theme:
   name: material
+  favicon: assets/logo.svg
   logo: assets/logo.svg
   palette:
     primary: blue grey
@@ -14,4 +15,9 @@ nav:
   - Home: index.md
   - Quickstart: 
     - quickstart/quickstart-confrm.md
+    - quickstart/quickstart-rpi.md
     - quickstart/quickstart-client.md
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
